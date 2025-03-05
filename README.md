@@ -4,7 +4,7 @@ This HR Data Analytics Dashboard aims to help the HR department efficiently mana
 ## Dataset used
 - <a href="https://github.com/s942509/Human-resource-Dashboard-Excel/blob/main/Human%20Resources%20Dashboard.xlsx</a>
 ## Questions
-- 1. Employee Headcount and Hiring Trends
+### 1. Employee Headcount and Hiring Trends
 - What is the current total number of employees?
 - How was the hiring situation in 2021? Did it meet expectations?
 - 2. Gender Ratio Analysis
