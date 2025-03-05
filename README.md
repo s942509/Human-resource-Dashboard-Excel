@@ -2,7 +2,7 @@
 ## Objectives 
 This HR Data Analytics Dashboard aims to help the HR department efficiently manage and analyze employee data. The key objectives and questions to explore include:
 ## Dataset used
-- <a href="https://github.com/s942509/Human-resource-Dashboard-Excel/blob/main/Human%20Resources%20Dashboard.xlsx</a>
+[Dashboard.xlsx](https://github.com/s942509/Human-resource-Dashboard-Excel/blob/main/Human%20Resources%20Dashboard.xlsx)
 ## Questions
 ### 1. Employee Headcount and Hiring Trends
 - What is the current total number of employees?
